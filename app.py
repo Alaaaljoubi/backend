@@ -13,7 +13,7 @@ app.secret_key = 'supersecretkey'  # Replace with a strong secret key
 CORS(app, supports_credentials=True)
 
 # Path to the JSON file
-DATA_FILE = '/Users/anasalsayed/Documents/PROJECTS/MeuAssistBot/backend/data/Questions.json'
+DATA_FILE = './data/Questions.json'
 
 # Load the questions and answers from the JSON file
 def load_data():
