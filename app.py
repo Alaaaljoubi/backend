@@ -1,4 +1,4 @@
-from flask import Flask, request, jsonify, session
+from flask import Flask, request, jsonify, session, send_file
 from flask_cors import CORS
 from fuzzywuzzy import fuzz
 import json
@@ -132,6 +132,24 @@ def delete_qa():
         return jsonify({'message': 'Question deleted successfully'}), 200
 
     return jsonify({'message': 'Question not found'}), 404
+
+# Route to download the JSON file
+@app.route('/download-questions', methods=['GET'])
+def download_questions():
+    try:
+        return send_file(DATA_FILE, as_attachment=True)
+    except Exception as e:
+        return str(e)
+
+# Route to view the content of the JSON file as JSON
+@app.route('/view-questions', methods=['GET'])
+def view_questions():
+    try:
+        with open(DATA_FILE, 'r') as f:
+            data = json.load(f)
+        return jsonify(data)
+    except Exception as e:
+        return jsonify({"error": str(e)})
 
 if __name__ == '__main__':
     app.run(host='0.0.0.0', port=5001)
