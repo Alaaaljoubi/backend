@@ -1121,6 +1121,7 @@
             "answer": "The career center offers resume and cover letter reviews, as well as workshops on how to craft effective application materials."
         }
     ],
+    
     "General University Information": [
         {
             "question": "Where can I find the academic calendar?",
@@ -1312,5 +1313,166 @@
             "question": "ما هو عدد التخصصات جامعة الشرق الاوسط؟",
             "answer": "29"
         }
-    ]
+    ],
+    
+        "Admissions": [
+          {
+            "question": "Is MEU an accredited university?",
+            "answer": "Yes, MEU is a private university accredited by the Ministry of Higher Education & Scientific Research and is a member of the European University Association (EUA)."
+          },
+          {
+            "question": "Can non-Jordanian students apply to MEU?",
+            "answer": "Yes, non-Jordanian students can apply, provided their high school certificates are certified by the Ministry of Education. They can apply online through the university’s registration portal."
+          },
+          {
+            "question": "Can registration and acceptance be performed online?",
+            "answer": "Yes, the acceptance, registration, and course enrollment procedures can be completed electronically through the university’s E-Gate system."
+          },
+          {
+            "question": "What documents are required for undergraduate admission?",
+            "answer": "Required documents include a certified high school certificate, a copy of the national ID or passport, personal photos, and the application fee receipt."
+          },
+          {
+            "question": "What is the age limit for applying to MEU?",
+            "answer": "There is no specific age limit. Any student with a valid high school certificate can apply."
+          },
+          {
+            "question": "ما هي الوثائق المطلوبة للقبول في برنامج البكالوريوس؟",
+            "answer": "تشمل الوثائق المطلوبة شهادة الثانوية العامة المعتمدة، نسخة من الهوية الوطنية أو جواز السفر، صور شخصية، وإيصال رسوم التقديم."
+          }
+        ],
+        "Academics": [
+          {
+            "question": "What academic programs does MEU offer?",
+            "answer": "MEU offers a wide range of undergraduate and graduate programs across various faculties, including Engineering, Business, Media, Arts, and Educational Sciences."
+          },
+          {
+            "question": "What is the process for changing a major at MEU?",
+            "answer": "To change your major, you need to submit a request through the academic advising office. Approval is required from both the current and prospective departments."
+          },
+          {
+            "question": "Does MEU offer any honors programs?",
+            "answer": "Yes, MEU offers honors programs for academically gifted students who meet specific criteria."
+          },
+          {
+            "question": "How can I access my course schedule?",
+            "answer": "Students can access their course schedule through the EduGate portal available on the university’s website."
+          },
+          {
+            "question": "How does MEU handle academic integrity?",
+            "answer": "MEU has a strict policy against cheating, plagiarism, and any form of academic dishonesty. Violations can lead to disciplinary actions, including suspension or expulsion."
+          },
+          {
+            "question": "ما هي السياسة الأكاديمية للجامعة؟",
+            "answer": "تتبع الجامعة سياسة صارمة تجاه النزاهة الأكاديمية، وتعتبر أي نوع من الغش أو السرقة الأدبية مخالفة يمكن أن تؤدي إلى عقوبات تأديبية قد تشمل الفصل من الجامعة."
+          }
+        ],
+        "Campus Life": [
+          {
+            "question": "What facilities are available on the MEU campus?",
+            "answer": "MEU provides various facilities, including places of worship, dining services, fitness gyms, sports courts, and entertainment centers."
+          },
+          {
+            "question": "Is there on-campus accommodation at MEU?",
+            "answer": "Yes, the university offers on-campus housing options for students, including dormitories and student apartments."
+          },
+          {
+            "question": "What recreational facilities does MEU offer?",
+            "answer": "MEU offers several recreational facilities, including an Olympic stadium, fitness centers, and both indoor and outdoor sports courts."
+          },
+          {
+            "question": "How can I stay informed about campus events?",
+            "answer": "Students can stay updated on campus events through the university’s online events calendar, social media, and newsletters."
+          },
+          {
+            "question": "ما هي المرافق الترفيهية المتاحة في الجامعة؟",
+            "answer": "توفر الجامعة مرافق ترفيهية متعددة تشمل ملعب أولمبي، مراكز لياقة بدنية، وملاعب رياضية داخلية وخارجية."
+          }
+        ],
+        "Financial Aid": [
+          {
+            "question": "What types of financial aid are available at MEU?",
+            "answer": "MEU offers various types of financial aid, including scholarships based on merit and need, as well as work-study opportunities."
+          },
+          {
+            "question": "How can I apply for a scholarship at MEU?",
+            "answer": "Students can apply for scholarships through the university’s financial aid office by filling out the required forms and providing necessary documentation."
+          },
+          {
+            "question": "Can international students apply for financial aid?",
+            "answer": "Yes, international students are eligible to apply for scholarships and other forms of financial assistance."
+          },
+          {
+            "question": "كيف يمكنني التقديم للحصول على منحة دراسية في جامعة الشرق الأوسط؟",
+            "answer": "يمكن للطلاب التقديم للحصول على منح دراسية من خلال مكتب المساعدات المالية بالجامعة، عبر تعبئة النماذج المطلوبة وتقديم المستندات الضرورية."
+          }
+        ],
+        "Faculty of Engineering": [
+          {
+            "question": "What engineering programs are offered at MEU?",
+            "answer": "The Faculty of Engineering at MEU offers programs in Electrical Engineering, Civil Engineering, Mechanical Engineering, and Computer Engineering."
+          },
+          {
+            "question": "What are the core courses for Electrical Engineering at MEU?",
+            "answer": "Core courses for Electrical Engineering include Circuit Analysis, Digital Logic Design, Power Systems, and Control Systems."
+          },
+          {
+            "question": "Does MEU provide internship opportunities for engineering students?",
+            "answer": "Yes, the university offers internship programs in collaboration with local and international companies to provide practical experience."
+          },
+          {
+            "question": "What are the admission requirements for the Faculty of Engineering?",
+            "answer": "Admission requirements include a high school diploma with a strong background in Mathematics and Physics, and passing the university’s placement tests."
+          },
+          {
+            "question": "ما هي البرامج الهندسية التي تقدمها كلية الهندسة في جامعة الشرق الأوسط؟",
+            "answer": "تقدم كلية الهندسة في جامعة الشرق الأوسط برامج في الهندسة الكهربائية، الهندسة المدنية، الهندسة الميكانيكية، وهندسة الكمبيوتر."
+          }
+        ],
+        "Faculty of Business": [
+          {
+            "question": "What business degrees are available at MEU?",
+            "answer": "MEU offers business degrees in Accounting, Finance, Marketing, Management, and Business Administration."
+          },
+          {
+            "question": "What are the core subjects in the Business Administration program?",
+            "answer": "Core subjects include Principles of Management, Financial Accounting, Marketing, Business Law, and Organizational Behavior."
+          },
+          {
+            "question": "How does MEU support entrepreneurship for business students?",
+            "answer": "MEU provides support through the Innovation & Entrepreneurship Center, offering workshops, mentoring, and startup incubation programs."
+          },
+          {
+            "question": "What are the graduation requirements for the Business Administration program?",
+            "answer": "Graduation requirements include the completion of all required courses, a minimum GPA, and a capstone project or internship."
+          },
+          {
+            "question": "ما هي درجات الأعمال المتاحة في جامعة الشرق الأوسط؟",
+            "answer": "تقدم جامعة الشرق الأوسط درجات في المحاسبة، التمويل، التسويق، الإدارة، وإدارة الأعمال."
+          }
+        ],
+        "Faculty of Media": [
+          {
+            "question": "What programs does the Faculty of Media at MEU offer?",
+            "answer": "The Faculty of Media offers programs in Journalism, Digital Media, Public Relations, and Radio and Television Broadcasting."
+          },
+          {
+            "question": "What are the key courses in the Digital Media program?",
+            "answer": "Key courses include Multimedia Production, Social Media Strategies, Content Creation, and Web Design."
+          },
+          {
+            "question": "Does MEU offer practical training in Media studies?",
+            "answer": "Yes, MEU provides practical training through its Media Training and Development Center, where students gain hands-on experience."
+          },
+          {
+            "question": "What are the career opportunities for graduates of the Media program?",
+            "answer": "Graduates can pursue careers in journalism, public relations, digital marketing, broadcasting, and media production."
+          },
+          {
+            "question": "ما هي البرامج التي تقدمها كلية الإعلام في جامعة الشرق الأوسط؟",
+            "answer": "تقدم كلية الإعلام برامج في الصحافة، الإعلام الرقمي، العلاقات العامة، والبث الإذاعي والتلفزيوني."
+          }
+        ]
+      
+      
 }

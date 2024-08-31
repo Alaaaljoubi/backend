@@ -7,8 +7,8 @@ from transformers import BertTokenizer, BertForSequenceClassification, Trainer, 
 from datasets import Dataset
 
 # Path to results directory
-results_dir = '/Users/anasalsayed/Documents/PROJECTS/MeuAssistBot/backend/results'
-model_save_path = '/Users/anasalsayed/Documents/PROJECTS/MeuAssistBot/backend/models/my_model'
+results_dir = '/backend/results'
+model_save_path = '/backend/models/my_model'
 
 def delete_last_checkpoint(results_dir):
     checkpoints = [os.path.join(results_dir, d) for d in os.listdir(results_dir) if d.startswith("checkpoint-")]
